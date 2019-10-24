@@ -1,0 +1,11 @@
+D:\Users\tomasz.blicharz\Desktop\Porownywanie\bin\Debug\netcoreapp2.2\Porownywanie.deps.json
+D:\Users\tomasz.blicharz\Desktop\Porownywanie\bin\Debug\netcoreapp2.2\Porownywanie.runtimeconfig.json
+D:\Users\tomasz.blicharz\Desktop\Porownywanie\bin\Debug\netcoreapp2.2\Porownywanie.runtimeconfig.dev.json
+D:\Users\tomasz.blicharz\Desktop\Porownywanie\bin\Debug\netcoreapp2.2\Porownywanie.dll
+D:\Users\tomasz.blicharz\Desktop\Porownywanie\bin\Debug\netcoreapp2.2\Porownywanie.pdb
+D:\Users\tomasz.blicharz\Desktop\Porownywanie\obj\Debug\netcoreapp2.2\Porownywanie.csprojAssemblyReference.cache
+D:\Users\tomasz.blicharz\Desktop\Porownywanie\obj\Debug\netcoreapp2.2\Porownywanie.csproj.CoreCompileInputs.cache
+D:\Users\tomasz.blicharz\Desktop\Porownywanie\obj\Debug\netcoreapp2.2\Porownywanie.AssemblyInfoInputs.cache
+D:\Users\tomasz.blicharz\Desktop\Porownywanie\obj\Debug\netcoreapp2.2\Porownywanie.AssemblyInfo.cs
+D:\Users\tomasz.blicharz\Desktop\Porownywanie\obj\Debug\netcoreapp2.2\Porownywanie.dll
+D:\Users\tomasz.blicharz\Desktop\Porownywanie\obj\Debug\netcoreapp2.2\Porownywanie.pdb
